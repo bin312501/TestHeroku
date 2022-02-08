@@ -75,8 +75,7 @@ RUN rm -rf /etc/apt/sources.list && \
 	novnc \
 	openvpn \
 	ffmpeg \
-#Fluxbox
-	/app/fluxbox-heroku-mod.deb && \
+
 #MATE Desktop
 	#apt install -y \ 
 	#ubuntu-mate-core \
